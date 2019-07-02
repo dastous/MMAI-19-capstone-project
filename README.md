@@ -46,7 +46,7 @@
 
 #From the Description can we predict the Strain --> No not enough data from each strains (1 description per strains only)
 #From the Description can we predict the Rating (regardless of the strain)?  --> done
-#From the Description can we predict the Type? --> 74%
+#From the Description can we predict the Type? --> done
 #From the Description can we predict the Effects?  --> done
 #From the Description can we predict the Flavors?  --> done
 #From the Sentiment can we predict the Rating --> done
