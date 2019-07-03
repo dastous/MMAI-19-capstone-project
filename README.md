@@ -2,7 +2,7 @@
 #Initial work completed for client : CannaConnect
 
 # Canadabis Strains
-#Data From Kaggle website: https://www.kaggle.com/kingburrito666/cannabis-strains
+#Public Data, From Kaggle website: https://www.kaggle.com/kingburrito666/cannabis-strains
 
 # Content
 #strain name: Given name of strain
